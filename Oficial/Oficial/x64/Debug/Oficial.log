@@ -1,0 +1,88 @@
+﻿  FileName.cpp
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(92,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(127,36): warning C4101: 'eleccion': variable local sin referencia
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(184,29): warning C4101: 'resto': variable local sin referencia
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(337,28): warning C4309: '=': truncamiento de valor constante
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(338,28): warning C4309: '=': truncamiento de valor constante
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(339,28): warning C4309: '=': truncamiento de valor constante
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(340,28): warning C4309: '=': truncamiento de valor constante
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(355,27): warning C4101: 'i': variable local sin referencia
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(494,38): warning C4101: 'movimiento': variable local sin referencia
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(496,22): warning C4101: 'opccomodin': variable local sin referencia
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(570,19): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(643,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(749,25): warning C4473: "scanf_s": no se pasaron suficientes argumentos para la cadena de formato
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(749,25): message : los marcadores de posición y sus parámetros esperan 2 argumentos variádicos, pero se proporcionaron 1
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(749,25): message : el argumento variádico 2 que falta es requerido por la cadena de formato '%c'
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(749,25): message : este argumento se utiliza como un tamaño de búfer
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(775,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(788,30): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(860,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(873,17): warning C4473: "scanf_s": no se pasaron suficientes argumentos para la cadena de formato
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(873,17): message : los marcadores de posición y sus parámetros esperan 2 argumentos variádicos, pero se proporcionaron 1
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(873,17): message : el argumento variádico 2 que falta es requerido por la cadena de formato '%c'
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(873,17): message : este argumento se utiliza como un tamaño de búfer
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(893,25): warning C4473: "scanf_s": no se pasaron suficientes argumentos para la cadena de formato
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(893,25): message : los marcadores de posición y sus parámetros esperan 2 argumentos variádicos, pero se proporcionaron 1
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(893,25): message : el argumento variádico 2 que falta es requerido por la cadena de formato '%c'
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(893,25): message : este argumento se utiliza como un tamaño de búfer
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(859,33): warning C4101: 'correcto': variable local sin referencia
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(940,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(1129,17): warning C4473: "scanf_s": no se pasaron suficientes argumentos para la cadena de formato
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(1129,17): message : los marcadores de posición y sus parámetros esperan 2 argumentos variádicos, pero se proporcionaron 1
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(1129,17): message : el argumento variádico 2 que falta es requerido por la cadena de formato '%c'
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(1129,17): message : este argumento se utiliza como un tamaño de búfer
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(1145,17): warning C4473: "scanf_s": no se pasaron suficientes argumentos para la cadena de formato
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(1145,17): message : los marcadores de posición y sus parámetros esperan 2 argumentos variádicos, pero se proporcionaron 1
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(1145,17): message : el argumento variádico 2 que falta es requerido por la cadena de formato '%c'
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(1145,17): message : este argumento se utiliza como un tamaño de búfer
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(1161,17): warning C4473: "scanf_s": no se pasaron suficientes argumentos para la cadena de formato
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(1161,17): message : los marcadores de posición y sus parámetros esperan 2 argumentos variádicos, pero se proporcionaron 1
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(1161,17): message : el argumento variádico 2 que falta es requerido por la cadena de formato '%c'
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(1161,17): message : este argumento se utiliza como un tamaño de búfer
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(1177,17): warning C4473: "scanf_s": no se pasaron suficientes argumentos para la cadena de formato
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(1177,17): message : los marcadores de posición y sus parámetros esperan 2 argumentos variádicos, pero se proporcionaron 1
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(1177,17): message : el argumento variádico 2 que falta es requerido por la cadena de formato '%c'
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(1177,17): message : este argumento se utiliza como un tamaño de búfer
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(1193,17): warning C4473: "scanf_s": no se pasaron suficientes argumentos para la cadena de formato
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(1193,17): message : los marcadores de posición y sus parámetros esperan 2 argumentos variádicos, pero se proporcionaron 1
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(1193,17): message : el argumento variádico 2 que falta es requerido por la cadena de formato '%c'
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(1193,17): message : este argumento se utiliza como un tamaño de búfer
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(1209,17): warning C4473: "scanf_s": no se pasaron suficientes argumentos para la cadena de formato
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(1209,17): message : los marcadores de posición y sus parámetros esperan 2 argumentos variádicos, pero se proporcionaron 1
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(1209,17): message : el argumento variádico 2 que falta es requerido por la cadena de formato '%c'
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(1209,17): message : este argumento se utiliza como un tamaño de búfer
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(1225,17): warning C4473: "scanf_s": no se pasaron suficientes argumentos para la cadena de formato
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(1225,17): message : los marcadores de posición y sus parámetros esperan 2 argumentos variádicos, pero se proporcionaron 1
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(1225,17): message : el argumento variádico 2 que falta es requerido por la cadena de formato '%c'
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(1225,17): message : este argumento se utiliza como un tamaño de búfer
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(1241,17): warning C4473: "scanf_s": no se pasaron suficientes argumentos para la cadena de formato
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(1241,17): message : los marcadores de posición y sus parámetros esperan 2 argumentos variádicos, pero se proporcionaron 1
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(1241,17): message : el argumento variádico 2 que falta es requerido por la cadena de formato '%c'
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(1241,17): message : este argumento se utiliza como un tamaño de búfer
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(1257,17): warning C4473: "scanf_s": no se pasaron suficientes argumentos para la cadena de formato
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(1257,17): message : los marcadores de posición y sus parámetros esperan 2 argumentos variádicos, pero se proporcionaron 1
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(1257,17): message : el argumento variádico 2 que falta es requerido por la cadena de formato '%c'
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(1257,17): message : este argumento se utiliza como un tamaño de búfer
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(1273,17): warning C4473: "scanf_s": no se pasaron suficientes argumentos para la cadena de formato
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(1273,17): message : los marcadores de posición y sus parámetros esperan 2 argumentos variádicos, pero se proporcionaron 1
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(1273,17): message : el argumento variádico 2 que falta es requerido por la cadena de formato '%c'
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(1273,17): message : este argumento se utiliza como un tamaño de búfer
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(1485,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(1495,13): warning C4473: "scanf_s": no se pasaron suficientes argumentos para la cadena de formato
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(1495,13): message : los marcadores de posición y sus parámetros esperan 2 argumentos variádicos, pero se proporcionaron 1
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(1495,13): message : el argumento variádico 2 que falta es requerido por la cadena de formato '%c'
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(1495,13): message : este argumento se utiliza como un tamaño de búfer
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(1604,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(1671,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(855): warning C4715: 'conversion_juego': no todas las rutas de acceso de control devuelven un valor
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(935): warning C4715: 'ladostriang': no todas las rutas de acceso de control devuelven un valor
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(1111): warning C4715: 'aleatoriedad_p1': no todas las rutas de acceso de control devuelven un valor
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(556): warning C4715: 'preguntas_tipo1': no todas las rutas de acceso de control devuelven un valor
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(639): warning C4715: 'preguntas_tipo2': no todas las rutas de acceso de control devuelven un valor
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(1288): warning C4715: 'sucesos_p2': no todas las rutas de acceso de control devuelven un valor
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(1461): warning C4715: 'probabilidad_p3': no todas las rutas de acceso de control devuelven un valor
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(1581): warning C4715: 'estructjuego_se': no todas las rutas de acceso de control devuelven un valor
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(1702): warning C4715: 'n_lados_poligono': no todas las rutas de acceso de control devuelven un valor
+C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\Oficial\FileName.cpp(1820): warning C4715: 'problemas': no todas las rutas de acceso de control devuelven un valor
+  Oficial.vcxproj -> C:\Users\adjua\OneDrive\Escritorio\Nueva carpeta\Oficial\x64\Debug\Oficial.exe

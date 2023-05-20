@@ -1,0 +1,22 @@
+PREGUNTAS ALEATORIEDAD
+Situacion:   Lanzar una moneda al aire y que salga cara.
+Situacion:   Poner un helado al sol y que se derrita.
+Situacion:   Lanzar un dado y que salga un 3.
+Situacion:   Meter la mano en agua y mojarse.
+Situacion:   Sacar una bola amarilla de una urna con 7 bolas amarillas dentro.
+Situacion:   Sacar una carta de una baraja de cartas y sea la sota de bastos.
+Situacion:   Sacar menos de un siete al lanzar un dado.
+Situacion:   Saber el color de una bicicleta que pase por la calle.
+Situacion:   Comprar cinco boletos de loteria y ganar la loteria.
+Situacion:   Despues del numero 5 va el 6.
+PREGUNTAS SUCESOS
+Suceso: Sacar una bola amarilla de una bolsa con bolas verdes, azules y rojas.
+Suceso: Sacar una canica verde de una urna con 50 canicas donde solo una es verde.
+Suceso: Una urna contiene solo bolas rojas. Sacar una bola amarilla.
+Suceso: Lanzar un dado y que salga un numero mayor que 0.
+Suceso: Tirar dos monedas al aire y que salgan 3 caras.
+Suceso: Tirar dos dados y que la suma sea 9.
+Suceso: Tirar un dado y que el resultado sea impar o par.
+Suceso: Ganar la loteria sin haber jugado.
+Suceso: Salir a la calle y que llueva.
+Suceso: Sacar una carta de una baraja española y que sea de oros.

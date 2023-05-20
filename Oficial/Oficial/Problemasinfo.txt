@@ -1,0 +1,33 @@
+Problema 1:
+Gema ha entrenado mucho mas que Elena, y por eso ha recorrido mas kilometeros que ella montando en bicicleta. 
+Gema ha recorrido 95 kilometros y Elena ha recorrido 70 kilometros. 
+Calcula cuantos kilometros le quedan a Elena para alcanzar a Gema?
+
+Problema 2:
+Un club de paddel necesita ropa para sus jugadores. Para cada jugador, el conjunto
+de camiseta y pantalon cuesta 12 euros y el chandal cuesta 5. Si el club puede
+gastar 102 euros.
+
+1.  La equipaci6n cuesta 6 euros
+2.  No se puede saber
+3.  Podra comprar 6 equipaciones
+4.  Podran elegir entre 6 tallas
+
+Problema 3:
+Alba esta ahorrando para poder comprarse un ordenador. Este mes no ha comprado ningun juguete,
+y por eso ha conseguido ahorrar 89 euros, justo 65 euros mas que el mes pasado. El mes que viene quiere
+ahorrar 40 euros mas. Cuanto dinero ahorro Alba el mes pasado?
+
+Problema 4:
+Vera gasto 187 euros en un abrigo y 52 euros en un bolso.
+Tras las compras, le quedaban en el monedeno 22 euros.
+Cuanto dinero tenia antes de ir de compras?
+
+Problema 5: Dos metros y 18 centimetros unidos a 3
+metros y 34 centimetros. A cuantos
+centimetros equivale?
+
+1.  486cm 
+2.  520cm
+3.  632cm 
+4.  552cm 
